@@ -1,0 +1,51 @@
+body {
+    float: left;
+    font-family: 'Arimo', sans-serif;
+    font-size: 22px;
+    line-height: 1.2em;
+    margin: 1.5em 2em 1em 2em;
+    min-width: 29em;
+}
+
+.content {
+    float: right;
+}
+
+.title {
+    float: right;
+    writing-mode:tb-rl;
+    -webkit-transform:rotate(90deg);
+    -moz-transform:rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform:rotate(90deg);
+    transform: rotate(90deg);
+    white-space: nowrap;
+    display: block;
+    bottom: 0;
+    width: 20px;
+    height: 20px;
+    font-size: 2.5em;
+    margin: 0.5em 0 0 1em;
+    text-transform: lowercase;
+}
+
+article {
+    float: right;
+    width: 25em;
+    text-indent: 2em;
+}
+
+figure {
+    float: right;
+    width: 16em;
+    background-color: black;
+    color: white;
+    border: 0.5em solid black;
+    margin-left: 0;
+    text-align: right;
+}
+
+img {
+    width: 16em;
+    height: 16em;
+}

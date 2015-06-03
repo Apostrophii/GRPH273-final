@@ -1,0 +1,31 @@
+Goal: Find a recent news article on Canadian politics.
+
+ARNOLDO CALDERA:
+YAHOO:
+Simply typed in "Canadian politics" in the search bar once he was on Yahoo's news section. Ended up scrolling quite a bit trying to find something pertinent.
+GOOGLE:
+Started scrolling right off the bat. Got distracted a bit by other intersting articles on the main page. Had to redirect him to the task at hand. Then typed the prompt into the search bar. Found useful article at the very top of results.
+BING:
+Searched for term right off the bat. Started scrolling through results. Finally found some stuff near the bottom of the page.
+
+MITCHEL KESSLER:
+YAHOO:
+Spelled "Canadian" wrong when searching for the prompt in the bar. Complained about Yahoo's lack of spell check. Then checked spelling using Google. Then searched for "Canadian prime minister" since he didn't feel like the original prompt was giving him good results. Found first link somewhat meaningful.
+GOOGLE:
+Started out with the same search. Enjoyed the auto complete feature Google has vs Yahoo. Found first result quite current.
+BING:
+Typed in prompt in search bar. Found first result somewhat useful. Said that Yahoo sucked the most.
+
+SCOTT GINOZA:
+YAHOO:
+Started clicking on the articles on the main page out of interest. Clicked on the politics option on the side bar. Then just searched for "Canada" which didn't specifically include politics results to his disappointment. Declaired the search bar useless. Finally resulted to just typing "Canadian politics" into the search bar. Then started searching for "Canada". Found that Yahoo New and Yahoo Politics employ rather different searches. The subject really took quite a large amuont of time on this task.
+GOOGLE:
+First started scrolling through the main page of articles looking for leads. Got distracted by "Suggested For You" page. Then got distracted by another article dealing with V. Putin. Next found that there were different "editions" of Google News. Finally just searched for "Canadian politics". Noted that different search options were given from the search bar.
+BING:
+Noted that Yahoo and Bing's subheadings were a lot easier to find than Google's. Started scanning main page. Noted that all the blue text made it difficult to decern the different between titles and subheadings. Says it's nice and compact though. Next checked the "politics" tab and started scrolling. Finally typed "Canadian politics" into the search bar.
+
+COMMON THEMES:
+Subjects tended to get distracted from the given task while using Google News.
+Yahoo's search bar was also found to be suboptimal.
+Speaking of search bars, each subject on nearly every site simply resorted to utilizing the search bar to navigate to their target result instead of using the subheaders.
+Google's search results also appeared to be the most useful, as opposed to Yahoo which required scrolling to find significant results.
